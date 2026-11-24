@@ -1,6 +1,6 @@
 # Improvements - Automated Deployment & Infrastructure Monitoring
 
-## Current Result
+## Obtain Current Result
 Automated deployments and server health checks, with SQL Server backups stored in Amazon S3.
 
 ## Planned / Possible Improvements
