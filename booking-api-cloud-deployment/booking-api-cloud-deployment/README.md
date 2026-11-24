@@ -2,7 +2,7 @@
 
 > Booking service deployed and monitored on AWS
 
-## Problem
+## Problem 
 Booking systems need reliable deployments, visibility into failures, and customer notifications.
 
 ## What I Built
@@ -13,7 +13,7 @@ Booking systems need reliable deployments, visibility into failures, and custome
 - S3 for artifacts / booking data storage
 - Azure DevOps CI/CD with Git and PowerShell scripts
 
-## Tech Stack
+## Tech Stack Used
 Python, Flask, AWS EC2, S3, CloudWatch, SES, Azure DevOps, Git, PowerShell
 
 ## Result
